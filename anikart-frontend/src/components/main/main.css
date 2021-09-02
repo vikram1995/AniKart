@@ -1,0 +1,9 @@
+.main-container {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.246), rgba(0, 0, 0, 0.144)), url('../../images/background.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}

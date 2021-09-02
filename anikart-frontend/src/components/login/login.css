@@ -1,0 +1,27 @@
+.login-body{
+    height: 80%;
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.welcome-page{
+    background-image: url('../../images/welcomePage.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.welcome-page-text{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+
+.sign-in-form{
+    color: black;
+}
